@@ -18,7 +18,7 @@ public class ER301 implements Runnable {
     PanamaHitek_Arduino serial = new PanamaHitek_Arduino();
     Thread detectingSequence;
     private volatile boolean running = false;
-//yo soy 
+//yo soy Ricardo Yi 
     private int index = 0;
     private String inputData = "";
     private String code = "";
